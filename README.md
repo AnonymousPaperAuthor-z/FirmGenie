@@ -1,2 +1,2 @@
 # FirmGenie
-A LLM framework for firmware-level network device identification
+An expert LLM framework for firmware-level network device identification
